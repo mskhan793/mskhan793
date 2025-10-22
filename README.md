@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Muhammad Shahzad Khan
 
+<img src="https://raw.githubusercontent.com/mskhan793/mskhan793/main/profile-pic.jpg" alt="Muhammad Shahzad Khan" width="200" style="border-radius: 50%;">
+
 **AI Engineer | Computer Vision Specialist | Doctoral Researcher**
 
 I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Currently pursuing my doctorate at the University of Jyväskylä, Finland in the **Machine Intelligence Methods and Applications (MIMA)** group. In parallel, I'm actively learning and building **AI Agents** using **LangChain** and **N8n**.
