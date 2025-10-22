@@ -58,11 +58,9 @@ I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Cu
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-- 📧 Email: [m.shahzad.k@outlook.com](mailto:m.shahzad.k@outlook.com)
 - 🔗 LinkedIn: [linkedin.com/in/mskhan793](https://www.linkedin.com/in/mskhan793/)
-- 📱 Phone: +358-504790577
 
 ---
 
