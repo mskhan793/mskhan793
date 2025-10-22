@@ -27,6 +27,10 @@ I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Cu
 - Provided end-to-end automation system design and implementation
 - Worked on control systems and industrial automation projects
 
+**Junior AI Engineer** at AbletechSolutions, Lahore, Pakistan (October 2022 - December 2022)
+- Worked on **Computer Vision** and **Object Detection** projects
+- Implemented deep learning models for image processing and detection tasks
+
 **Test Engineer** at National Institute of Electronics, Ministry of Science & Technology, Pakistan (July 2017 - July 2018)
 - Worked in Center of Testing and Quality Certification of Electronics Products (July 2017 - December 2017)
 - Automation Control and Embedded Systems Lab (PIC Microcontrollers) (January 2018 - June 2018)
@@ -57,7 +61,7 @@ I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Cu
 
 ## 🛠️ Technical Skills
 
-- **Computer Vision**: Image processing, object recognition, deep learning frameworks
+- **Computer Vision**: Image processing, object recognition, object detection, deep learning frameworks
 - **Machine Learning & AI**: Transfer learning, classification, imbalanced datasets
 - **AI Agents**: LangChain, N8n, AI automation workflows
 - **Industrial Automation**: PLC programming, control systems design
