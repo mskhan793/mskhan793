@@ -27,6 +27,10 @@ I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Cu
 - Provided end-to-end automation system design and implementation
 - Worked on control systems and industrial automation projects
 
+**Test Engineer** at National Institute of Electronics, Ministry of Science & Technology, Pakistan (July 2017 - July 2018)
+- Worked in Center of Testing and Quality Certification of Electronics Products (July 2017 - December 2017)
+- Automation Control and Embedded Systems Lab (PIC Microcontrollers) (January 2018 - June 2018)
+
 **Parallel Learning:**
 - Building AI Agents using **LangChain** and **N8n**
 - Exploring AI agent architectures and automation workflows
