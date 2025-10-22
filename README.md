@@ -15,12 +15,17 @@ I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Cu
 
 ---
 
-## 💼 Current Role
+## 💼 Professional Experience
 
 **Doctoral Researcher** at University of Jyväskylä, Finland (January 2024 - Present)
 - Conducting research on advanced machine learning techniques for imbalanced classification
 - Specializing in **Computer Vision** applications
 - Part of the Machine Intelligence Methods and Applications (MIMA) group
+
+**R & D Engineer** at Jiangsu Tongling Electric Co. Ltd., Jiangsu, China (May 2022 - December 2023)
+- Designed and developed **PLC-based automation solutions** for industrial applications
+- Provided end-to-end automation system design and implementation
+- Worked on control systems and industrial automation projects
 
 **Parallel Learning:**
 - Building AI Agents using **LangChain** and **N8n**
@@ -51,6 +56,7 @@ I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Cu
 - **Computer Vision**: Image processing, object recognition, deep learning frameworks
 - **Machine Learning & AI**: Transfer learning, classification, imbalanced datasets
 - **AI Agents**: LangChain, N8n, AI automation workflows
+- **Industrial Automation**: PLC programming, control systems design
 - **Programming**: Python, MATLAB, C/C++, SQL
 - **Deep Learning**: TensorFlow, PyTorch
 - **Embedded Systems**: Arduino, PIC, ATmega microcontrollers, FPGA/Verilog
