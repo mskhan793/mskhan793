@@ -41,15 +41,6 @@ I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Cu
 
 ---
 
-## 🏆 Awards & Achievements
-
-- 🥇 Chinese Government Scholarship (CSC)
-- 🥇 Jiangsu Government Scholarship (TSP)
-- 🥇 Institute Gold Medal Award (QAU)
-- 🥇 Outstanding Graduate Student Award (JSU)
-
----
-
 ## 📚 Publications
 
 - **3D Visualization in Turbid Water Using Optimal Photon Counting and a GAT-based Peplography Method** - Applied Optics 2024
