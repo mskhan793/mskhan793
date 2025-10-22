@@ -11,8 +11,7 @@ I'm an AI Engineer and researcher with a strong focus on **Computer Vision**. Cu
 | Qualification | Institution | Year |
 |---|---|---|
 | **MS Electrical (Control) Engineering** | Jiangsu University, Zhenjiang, China | 2021 |
-| **MSc in Electronics** | Quaid-e-Azam University, Pakistan | 2017 |
-| **Bachelor's in Electronics** | Quaid-e-Azam University, Pakistan | 2014 |
+| **Bachelor's in Electronics** | Quaid-e-Azam University, Pakistan | 2017 |
 
 ---
 
